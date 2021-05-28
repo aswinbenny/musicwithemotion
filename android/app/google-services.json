@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24572066526",
+    "project_id": "emotion-69b33",
+    "storage_bucket": "emotion-69b33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24572066526:android:c350d91d68bb4acb05a04f",
+        "android_client_info": {
+          "package_name": "com.example.buttons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24572066526-gf97s3t2hjui0h7tjf62db2t6e6cu3f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCdToF2SnEd2YNIRqXoahNwJE6ekv_6FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24572066526-gf97s3t2hjui0h7tjf62db2t6e6cu3f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
