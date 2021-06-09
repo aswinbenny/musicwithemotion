@@ -30,6 +30,9 @@ dependencies:
   path_provider:
   io:
   audioplayers: ^0.16.1
+  http: ^0.12.2
+  convert: ^2.0.0
+  async:
 
 
   # The following adds the Cupertino Icons font to your application.
