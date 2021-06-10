@@ -96,19 +96,19 @@ class _MyHomePageState extends State<MyHomePage> {
           ),);
       }
       if(de==c)
-      {print("neu");
-        Navigator.push(
-          this.context,
-          MaterialPageRoute(
-              builder: (context) => MyAppn()
-          ),);
-      }
-      if(de==d)
       {print("ang");
         Navigator.push(
           this.context,
           MaterialPageRoute(
               builder: (context) => MyAppa()
+          ),);
+      }
+      if(de==d)
+      {print("neu");
+        Navigator.push(
+          this.context,
+          MaterialPageRoute(
+              builder: (context) => MyAppn()
           ),);
       }
     } catch (err) {
